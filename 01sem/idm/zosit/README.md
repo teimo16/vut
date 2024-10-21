@@ -83,13 +83,3 @@
 ![](img/img-08.jpg)
 
 ![](img/img-09.jpg)
-
-# IDM-04
-
-## IDM-04(REV)
-
-<object data="pdf/2024-10-13-idm-4-rev_annotated.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="pdf/2024-10-13-idm-4-rev_annotated.pdf">
-        <p>This browser does not support PDFs.</p>
-    </embed>
-</object>
